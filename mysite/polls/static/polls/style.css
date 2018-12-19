@@ -1,7 +1,8 @@
  li a {
     font-size: 20px;
-    color: red;
+    color: blue;
 }
-body{
-    backgroud : white url{"images/background.jpg"} no-repeat;
+body {
+ background-image: url("back.png");
+ background-color: #cccccc;
 }
